@@ -1,0 +1,23 @@
+{
+  "name": "${TERMINAL_THEME_NAME}",
+  "background": "${TERMINAL_THEME_BACKGROUND}",
+  "black": "${TERMINAL_THEME_BLACK}",
+  "blue": "${TERMINAL_THEME_BLUE}",
+  "brightBlack": "${TERMINAL_THEME_BRIGHT_BLACK}",
+  "brightBlue": "${TERMINAL_THEME_BRIGHT_BLUE}",
+  "brightCyan": "${TERMINAL_THEME_BRIGHT_CYAN}",
+  "brightGreen": "${TERMINAL_THEME_BRIGHT_GREEN}",
+  "brightPurple": "${TERMINAL_THEME_BRIGHT_MAGENTA}",
+  "brightRed": "${TERMINAL_THEME_BRIGHT_RED}",
+  "brightWhite": "${TERMINAL_THEME_BRIGHT_WHITE}",
+  "brightYellow": "#${TERMINAL_THEME_BRIGHT_YELLOW}",
+  "cursorColor": "${TERMINAL_THEME_CURSOR}",
+  "cyan": "${TERMINAL_THEME_CYAN}",
+  "foreground": "${TERMINAL_THEME_FOREGROUND}",
+  "green": "${TERMINAL_THEME_GREEN}",
+  "purple": "${TERMINAL_THEME_MAGENTA}",
+  "red": "${TERMINAL_THEME_RED}",
+  "selectionBackground": "${TERMINAL_THEME_SELECTION_BACKGROUND}",
+  "white": "${TERMINAL_THEME_WHITE}",
+  "yellow": "${TERMINAL_THEME_YELLOW}"
+}
