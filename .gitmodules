@@ -1,6 +1,3 @@
 [submodule "gogh"]
 	path = submodules/gogh
 	url = git@github.com:Gogh-Co/Gogh.git
-[submodule "windows-terminal-themes"]
-	path = submodules/windows-terminal-themes
-	url = git@github.com:atomcorp/themes.git
