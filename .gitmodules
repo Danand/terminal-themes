@@ -1,0 +1,3 @@
+[submodule "gogh"]
+	path = submodules/gogh
+	url = git@github.com:Gogh-Co/Gogh.git
