@@ -10,7 +10,7 @@
   "brightPurple": "${TERMINAL_THEME_BRIGHT_MAGENTA}",
   "brightRed": "${TERMINAL_THEME_BRIGHT_RED}",
   "brightWhite": "${TERMINAL_THEME_BRIGHT_WHITE}",
-  "brightYellow": "#${TERMINAL_THEME_BRIGHT_YELLOW}",
+  "brightYellow": "${TERMINAL_THEME_BRIGHT_YELLOW}",
   "cursorColor": "${TERMINAL_THEME_CURSOR}",
   "cyan": "${TERMINAL_THEME_CYAN}",
   "foreground": "${TERMINAL_THEME_FOREGROUND}",
