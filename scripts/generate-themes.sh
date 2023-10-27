@@ -45,6 +45,8 @@ function generate_theme_gogh() {
   python3 "tools/generateShFiles.py"
   python3 "tools/updateThemes.py"
 
+  deactivate
+
   echo "Done: theme artifacts for Gogh successfully generated"
 
   git status --short
