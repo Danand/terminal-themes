@@ -58,3 +58,7 @@ Currently supported terminals:
 ## Available themes
 
 - `halloween-2023`
+
+## Utilities
+
+Themes generated with [`terminal-colors-generator`](https://github.com/Danand/terminal-colors-generator)
